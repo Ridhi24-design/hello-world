@@ -1,3 +1,8 @@
+'''python 
+def greet():
+   print("Hello World")
+
+greet()
 # 👋 Hello World
 🎉 This is my first Python program!  
 It simply prints *"Hello, World!"* on the screen.
@@ -24,7 +29,7 @@ Hello, World!
 ## 💡 About Me
 
 I am starting my journey in *Python programming* and learning how to code step by step.  
-This repository is my *first project*!  
+This repository is my *first project*!  i hope to improve in the near future. I apologise for any mistakes made as i am still really new to the coding program. 
 
 ---
 
